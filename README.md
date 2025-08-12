@@ -33,7 +33,7 @@ Getting this to work required some significant debugging, particularly in unders
 5.  **The Succession Logic:**
     * I must call `checkIn()` on the VITE contract periodically to prove I'm still active.
     * If I stop checking in, a time-lock begins. Once it expires, the `heir` can call `initiateSuccession()`.
-    * This triggers the VITE contract to transfer its ownership of the OVM to the `heir`. The heir finalizes this by calling `acceptOwnership` on the OVM, giving them complete and final control.
+    * This triggers the VITE contract to transfer its ownership of the OVM to the `heir`. 
 
 ### **OVM Functions & Roles Used**
 
@@ -43,15 +43,15 @@ Getting this to work required some significant debugging, particularly in unders
 ### **Project Links & Hashes**
 
 * **GitHub Repository:** `https://github.com/0xhackworth/ovm-inheritance-contract`
-* **Loom Video Showcase:** `[link]`
+* **Loom Video Showcase:** [LINK](https://www.loom.com/share/1d800ac9f19147079764e86ed832c669?sid=c431a4da-07ca-4cff-9226-03d169c85618)
 * **Hoodi Testnet Addresses & Hashes:**
     ```
-    Deployed OVM Address:   0x223b2642f2e9426bec582f29a354857f75532f1a
-    Deployed VITE Address:  0xfd55c98AF75eA9176795F3D5C6B6c0f8B6d1cB32
+    Deployed OVM Address:   0x530081569962D3035965e1ED37A8812F03bf68D7
+    Deployed VITE Address:  0xc5b18f73CDE8E1f9EFf8847a8d3031FCa516FAC0
 
-    OVM Creation TX Hash:   0xbaa50f20a4d924db2ef7648b80c83c7a1379a2794426bc7fe9de55ac6f937e3d
-    VITE Deployment TX Hash:  0x083becdfd4a9df731f3fe1f79a91b97b389d5190772d13eab92b6309867883de
-    Final Succession TX Hash: [Paste the TX Hash of the heir calling initiateSuccession]
+    OVM Creation TX Hash:   0x89ed75bc03802ab8cbe809d9191518209491e7e7e1a1cf5ef23aef40a83bbdac
+    VITE Deployment TX Hash:  0xddd977fdd94866dde5bf24921b6a89091b21fec05d612c08858a8b5022489948
+    Final Succession TX Hash: 0x6459824ac0af19470eebe209c78fe61f0f64420e8cbbded96de0b1ae1bd5c00c
     ```
 
 ### **License**
