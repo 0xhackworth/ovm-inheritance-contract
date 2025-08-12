@@ -43,7 +43,7 @@ Getting this to work required some significant debugging, particularly in unders
 ### **Project Links & Hashes**
 
 * **GitHub Repository:** `https://github.com/0xhackworth/ovm-inheritance-contract`
-* **Loom Video Showcase:** [LINK](https://www.loom.com/share/1d800ac9f19147079764e86ed832c669?sid=c431a4da-07ca-4cff-9226-03d169c85618)
+* **Loom Video Showcase:** [LINK](https://www.loom.com/share/1d800ac9f19147079764e86ed832c669?sid=d6ab193b-a5ed-428b-aa35-7d9c62dec9e1)
 * **Hoodi Testnet Addresses & Hashes:**
     ```
     Deployed OVM Address:   0x530081569962D3035965e1ED37A8812F03bf68D7
