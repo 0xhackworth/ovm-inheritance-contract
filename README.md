@@ -37,7 +37,7 @@ Getting this to work required some significant debugging, particularly in unders
 
 ### **OVM Functions & Roles Used**
 
-* **`transferOwnership()` & `acceptOwnership()`:** The standard two-step ownership pattern was essential for the secure transfer of control from my wallet to the VITE contract, and later to the heir.
+* **`transferOwnership()` :** Secure transfer of control from my wallet to the VITE contract, and later to the heir.
 * **`grantRoles(address user, uint256 roles)`:** This function allows the VITE contract to grant a combined integer value representing all management roles to me in a single transaction.
 
 ### **Project Links & Hashes**
