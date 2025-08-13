@@ -51,8 +51,10 @@ Getting this to work required some significant debugging, particularly in unders
     Deployed OVM Address:   0x530081569962D3035965e1ED37A8812F03bf68D7
     Deployed VITE Address:  0xc5b18f73CDE8E1f9EFf8847a8d3031FCa516FAC0
 
-    OVM Creation TX Hash:   0x89ed75bc03802ab8cbe809d9191518209491e7e7e1a1cf5ef23aef40a83bbdac
+    OVM Creation TX Hash:     0x89ed75bc03802ab8cbe809d9191518209491e7e7e1a1cf5ef23aef40a83bbdac
     VITE Deployment TX Hash:  0xddd977fdd94866dde5bf24921b6a89091b21fec05d612c08858a8b5022489948
+    Grant Roles TX Hash:      0xa16afe501ab5b0a9f603bb7cacc15ac59ac106f25c727b752939233f75e7709d
+    Check-In TX Hash:         0x9c6e266bd9fb6f0efc67cd7a456bd638730fc610ff506885c2eb1ab022183ff1
     Final Succession TX Hash: 0x6459824ac0af19470eebe209c78fe61f0f64420e8cbbded96de0b1ae1bd5c00c
     ```
 
